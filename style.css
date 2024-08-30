@@ -1,0 +1,89 @@
+header {
+    backgroup-color:blue;
+}
+title {
+    font-style: bold;
+    font-family:sans-serif;
+    font-size: 18;
+    background-color: #0418c9;
+
+
+}
+
+
+
+h1{
+    color:blue;
+
+}
+h2{
+  color:black;
+}
+
+
+nav a {
+    background-color: #6c65ad;
+    color: white;
+    padding: 14px 20px;
+    margin: 0 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+    display: inline-block;
+    transition: background-color 0.3s;
+    box-shadow: 0 4px 6px rgba(218, 29, 170, 0.404);  /* Adds a subtle shadow */
+    font-family: 'Arial', sans-serif;  /* Sets the font family */
+}
+/* Set the background image */
+body {
+    background-image: url('i2yDgN.jpg');  /* Use relative path */
+    background-size: cover;  /* Ensure the image covers the entire background */
+    background-repeat: no-repeat;  /* Prevent repeating the image */
+    background-position: center center;  /* Center the image */
+    background-attachment: fixed;  /* Make the background fixed while scrolling */
+    margin: 10px;  /* Correct margin syntax */
+    padding: 30px;  /* Correct padding syntax */
+}
+
+/* Style the navigation bar */
+nav {
+    background-color: #0418c9;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Style the navigation links */
+nav a {
+    background-color: #011014;
+
+    color: rgb(16, 127, 218);
+    padding: 14px 20px;
+    margin: 0 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+    display: inline-block;
+    transition: background-color 0.3s;
+}
+
+/* Hover effect for the links */
+nav a:hover {
+    background-color: #45a049;
+}
+
+/* Optional: Style text to make it visible over the background */
+h1 {
+    color: blue;
+    text-align: center;
+    padding-top: 100px;
+}
+
+p {
+    color: black;
+    text-align: center;
+    font-size: 18px;
+    font-family: sans-serif;
+
+}
+
+
